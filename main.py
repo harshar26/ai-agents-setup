@@ -1,7 +1,5 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# This is my python project to learn how to setup
+# AI agents from scratch using various tools and models
 
 
 def print_hi(name):
