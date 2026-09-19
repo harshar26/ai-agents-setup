@@ -15,10 +15,15 @@ def print_kids(kids_num):
     print(f"I have {kids_num} children.")
 
 
+def print_spouse(name):
+    print(f"My spouse name is {name}")
+
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
     print_age(38)
     print_kids(1)
+    print_spouse("Ritika")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
